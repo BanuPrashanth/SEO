@@ -31,6 +31,7 @@ Syntax
 
 Example: `npm run "test" "--key=testing companies in bangalore" "--company=thoughtframeworks"`
 
+Wait for few moment & You can see the results in the cmd prompt
 
 Let me know if Changes needed..
 
