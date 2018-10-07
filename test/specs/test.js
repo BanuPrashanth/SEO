@@ -1,7 +1,7 @@
 import SEO from '../logic/search';
 
-const keyword = 'testing companies in bangalore',
-    companyToBeSearched = 'https://www.thoughtframeworks.com/';
+const keyword = browser.keyword,
+    companyToBeSearched = browser.company;
 
 describe('SEO', () => {
     it('Search & Fetch results', () => {
